@@ -93,6 +93,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 
 - [Jasper](https://www.jasper.ai/) - Create content faster with artificial intelligence.
 - [Compose AI](https://www.compose.ai/) - Compose AI is a free Chrome extension that cuts your writing time by 40% with AI-powered autocompletion.
+- [bestAIpacks](https://bestaipacks.com) - Curated directory of AI tools by category with hand-reviewed picks and pricing.
+- [fixmyprompt](https://fixmyprompt.net) - Fix prompts before wasting money
 - [Rytr](https://rytr.me/) - Rytr is an AI writing assistant that helps you create high-quality content.
 - [wordtune](https://www.wordtune.com/) - Personal writing assistant.
 - [HyperWrite](https://hyperwriteai.com/) - HyperWrite helps you write with confidence and get your work done faster from idea to final draft.
